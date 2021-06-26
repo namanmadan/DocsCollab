@@ -37,5 +37,5 @@ io.on("connection", socket => {
 });
 
 http.listen(port, ()=>{
-    console.log(`Server Listening at ${port} port`)
+    console.log(`Server Listening at ${port} port`);
 })
