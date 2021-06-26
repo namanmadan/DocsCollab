@@ -71,7 +71,6 @@ function insertInMongoDb(doc){
 }
 
 function updateMongoDb(doc){
-    console.log(doc);
     documentModel.updateOne({id: doc.id}, doc)
     .catch((err) => console.log(err));;
 }
