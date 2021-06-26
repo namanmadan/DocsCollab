@@ -1,5 +1,7 @@
-# Simple Chat Application
+#Real-time document collaboration application
 
-MEAN Stack using Socket.io
+Objective: In order to get better undersanding of Socket Programming in general, and with Angular.
 
-###### Tutorial Followed: [djamware](https://www.djamware.com/post/58e0d15280aca75cdc948e4e/building-chat-application-using-mean-stack-angular-4-and-socketio)
+Tech Stack: Angular with WebSockets
+
+###### Tutorial Followed: [digitalocean](https://www.digitalocean.com/community/tutorials/angular-socket-io)
