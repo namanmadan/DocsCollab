@@ -4,4 +4,7 @@ Objective: In order to get better undersanding of Socket Programming in general,
 
 Tech Stack: Node + Express, Angular with WebSockets
 
+ + Added Persistant data functionality to the tutorial by added database connectivity (Nosql/MongoDb).
+ + Fixed few Issues.
+ 
 ###### Tutorial Followed: [digitalocean](https://www.digitalocean.com/community/tutorials/angular-socket-io)
