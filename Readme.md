@@ -1,4 +1,4 @@
-#Simple Chat Application
+# Simple Chat Application
 
 MEAN Stack using Socket.io
 
