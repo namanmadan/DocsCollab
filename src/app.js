@@ -29,6 +29,7 @@ io.on("connection", socket => {
     socket.on("editDoc", doc => {
         documents[doc.id] = doc;
         socket.to(doc.id).emit("document", doc);
+        console.log(doc);
     });
 
     io.emit("documents", Object.keys(documents));
