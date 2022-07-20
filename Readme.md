@@ -8,3 +8,6 @@ Tech Stack: Node + Express, Angular with WebSockets
  + Fixed few Issues.
  
 ###### Tutorial Followed: [digitalocean](https://www.digitalocean.com/community/tutorials/angular-socket-io)
+
+Naman Madan
+
