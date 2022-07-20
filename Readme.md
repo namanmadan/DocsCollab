@@ -9,5 +9,5 @@ Tech Stack: Node + Express, Angular with WebSockets
  
 ###### Tutorial Followed: [digitalocean](https://www.digitalocean.com/community/tutorials/angular-socket-io)
 
-Naman Madan
+Naman Madan - Testing
 
